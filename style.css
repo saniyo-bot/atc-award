@@ -2763,7 +2763,7 @@ a:hover{
 .why-tech-imgbx{
   width: 100%;
   height: 700px;
-  background-image: url('../img/why-technovalley.jpg');
+  background-image: url('/why-technovalley.jpg');
   background-position: center;
   background-size: cover;
   border-radius: 15px;
